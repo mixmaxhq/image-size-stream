@@ -1,8 +1,8 @@
 {
-  "name": "image-size-stream",
-  "version": "1.1.0",
+  "name": "@mixmaxhq/image-size-stream",
+  "version": "1.1.1",
   "description": "Detect the width and height of images in a stream",
-  "repository": "shinnn/image-size-stream",
+  "repository": "mixmaxhq/image-size-stream",
   "author": {
     "name": "Shinnosuke Watanabe",
     "url": "https://github.com/shinnn"
@@ -10,7 +10,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/shinnn/image-size-stream/blob/master/LICENSE"
+      "url": "https://github.com/mixmaxhq/image-size-stream/blob/master/LICENSE"
     }
   ],
   "files": [
